@@ -6,8 +6,8 @@ Tên : Ngô Văn Rôn
 
 Website được xây dựng trên nền tảng:
 
-ASP .NET Core 3.1
-Entity Framework Core 3.1
+* ASP .NET Core 3.1
+* Entity Framework Core 3.1
 
 Mô tả và chức năng
 
