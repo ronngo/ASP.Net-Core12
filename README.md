@@ -1,6 +1,5 @@
 # ASP.Net-Core - WEBSITE Blog Du Lịch
 
-ASP. Net Core
 
 Tên : Ngô Văn Rôn
 
