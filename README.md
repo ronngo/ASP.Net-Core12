@@ -4,7 +4,9 @@ ASP. Net Core
 
 Tên : Ngô Văn Rôn
 
-Các chức năng của trang web: Sửa, xóa , update , hiển thị category
+* Xây dựng các chức năng Admin
+* 
+
 
 Update
 09/11/2020: Xây dựng & thiết kế Database.
